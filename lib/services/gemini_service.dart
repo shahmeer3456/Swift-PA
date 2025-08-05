@@ -4,7 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class GeminiService {
   // Default Gemini API key
-  static const String _apiKey = 'AIzaSyBFwzdkHIIAj3R3zjiDB1wf5Pe0zwuHTcU';
+  static const String _apiKey = '';
   static const String _baseUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
