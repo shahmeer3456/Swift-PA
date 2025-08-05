@@ -3,7 +3,15 @@
 A modern Flutter-based personal assistant application designed to help you manage tasks, notes, and stay organized with voice capabilities and smart features.
 
 ## 🚀 Features
-## Screen shots: 
+## Screen shots: ![1](https://github.com/user-attachments/assets/fb994fd6-b25d-4b25-a0ab-b78a1e2caf0e)
+![2](https://github.com/user-attachments/assets/90d49b54-3616-4ce5-bdef-4f333eefef7d)
+![3](https://github.com/user-attachments/assets/a57c7a1f-863b-460e-bf88-c654891cc86d)
+![4](https://github.com/user-attachments/assets/9c75d3af-6ce8-4506-9466-ff6e1d2a4c9b)
+![5](https://github.com/user-attachments/assets/6f6a772f-dd02-49f2-a8e0-e61d5ffa8c09)
+![6](https://github.com/user-attachments/assets/7fb7e26d-c8ac-4019-8114-6465a6505f67)
+![7](https://github.com/user-attachments/assets/1adb4973-91f1-4744-b9dc-511483d923c4)
+
+
 ### 📋 Task Management
 - Create, edit, and delete tasks with detailed descriptions
 - Set due dates and recurring patterns
